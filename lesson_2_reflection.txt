@@ -2,3 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 
 git init is the command that initialize the new empty repository ( file .git ).
 The new repository us empty 
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is before of commit 
+
