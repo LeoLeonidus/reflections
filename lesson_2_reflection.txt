@@ -2,12 +2,12 @@ What happens when you initialize a repository? Why do you need to do it?
 
 git init is the command that initialize the new empty repository ( file .git ).
 The new repository us empty 
-
-
+=======================================================================
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area is before of commit 
 
-**************************************
-
-********   --------------------- **************
+======================================================================
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+It would be helpful when i want to make some changes to some files of the project but i want to keep the original project unchanged
+====================================================================
